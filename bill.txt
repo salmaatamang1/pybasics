@@ -1,0 +1,2 @@
+product name apple quantity 2 price 200 total is 400
+product name banana quantity 3 price 230 total is 690
